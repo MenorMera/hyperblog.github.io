@@ -1,7 +1,8 @@
 body {
+    background: #1e1f2a;
     text-align: left;
-    font-family: 'Roboto', 'verdana';
-    color: rgb(32, 135, 172);
+    font-family: 'verdana';
+    color: #333;
     font-size: 16px;
     margin: 0;
     padding: 0;
