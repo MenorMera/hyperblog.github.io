@@ -1,6 +1,6 @@
 ## Hyperblog
 > **Este es mi proyecto ello por marvin andres  
->En el cual podre una breve esplicacion de mi Vida**
+>En el cual podre una breve esplicacion de mi Vida.**
 
 ## Mis Aspiraciones Futura 
 >**Soy una persona comun y apenas estoy empesando en este mundo
